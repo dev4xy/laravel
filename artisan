@@ -39,7 +39,7 @@ $status = $kernel->handle(
 
 /*
 |--------------------------------------------------------------------------
-| Shutdown The Application
+| Shutdown the application
 |--------------------------------------------------------------------------
 |
 | Once Artisan has finished running, we will fire off the shutdown events
